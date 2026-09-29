@@ -1,1 +1,0 @@
-# Student_attendance_management_system
